@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.top-text{
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.download-text{
+    text-align: center;
+}
+.download-text a{
+    color: aquamarine;
+    font-size: 16px;
+}
