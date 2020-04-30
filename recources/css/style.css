@@ -1,20 +1,46 @@
 *{
     margin: 0;
-    padding: 0;
 }
 body{
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 30px auto;
+
 }
 .top-text{
     color: white;
     font-size: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+
 }
 .download-text{
-    text-align: center;
+    margin: 10px auto;
 }
 .download-text a{
     color: aquamarine;
     font-size: 16px;
+
+}
+.main img{
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin: 35px auto;
+}
+.main p{
+    font-size: 21px;
+    color: white;
+    margin: 15px auto;
+}
+.iphone{
+    margin-top: 15px;
+}
+footer{
+    color: grey;
+    text-align: right;
+    margin-right: 10px;
 }
